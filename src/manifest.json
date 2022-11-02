@@ -1,7 +1,7 @@
 {
     "name": "Calculator",
     "short_name": "Calculator",
-    "start_url": "https://mstefancich.github.io/calculator/",
+    "start_url": "https://ekipratama.github.io/workshop/",
     "background_color": "#6dcdb1",
     "theme_color": "#009578",
     "display": "standalone",
